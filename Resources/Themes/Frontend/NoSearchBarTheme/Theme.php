@@ -11,7 +11,7 @@ namespace Shopware\Themes\NoSearchBarTheme;
 
 class Theme extends \Shopware\Components\Theme
 {
-    protected $extend = 'BootstrapResponsive';
+    protected $extend = 'BootstrapBare';
 
     protected $name = 'No Search Bar Theme';
 
